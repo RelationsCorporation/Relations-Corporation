@@ -1,0 +1,13 @@
+Effect,Cause
+Create Relations Corporation,Nothing
+"Recuit People, Develop Processes",Create Relations Corporation
+Good Processes in Service of Public Good,"Recuit People, Develop Processes"
+Good Products,Good Processes in Service of Public Good
+Happy Customers,Good Products
+More Returning Customers,Happy Customers
+More Revenue,More Returning Customers
+Better Management,More Revenue
+Better Processes in Service of Public Good,Better Management
+Better Products,Better Processes in Service of Public Good
+Happier Customers,Better Products
+More Returning Customers,Happier Customers
